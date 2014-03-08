@@ -1,0 +1,2 @@
+vertx-angular-seed
+==================
